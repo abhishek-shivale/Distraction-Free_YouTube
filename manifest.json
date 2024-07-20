@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Distraction-Free YouTube",
     "version": "1.0",
-    "description": "Distraction-Free YouTube: Hides all unnecessary YouTube content from the home page and sidebar, including Shorts and recommendations, to help you stay focused and avoid distractions.",
+    "description": "Distraction-Free YouTube: Hides all unnecessary YouTube content from the home page and sidebar, including Shorts recommendations and comments, to help you stay focused and avoid distractions.",
     "permissions": [
         "scripting",
         "webRequest"
