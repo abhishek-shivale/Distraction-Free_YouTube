@@ -28,17 +28,27 @@ Distraction-Free YouTube is a browser extension designed to enhance your viewing
 
 ## Installation
 
-#### For Chrome
+### For Chrome
 
-1. Open Chrome and navigate to `chrome://extensions/`.
-2. Enable "Developer mode" in the top right corner.
-3. Click on "Load unpacked" and select the folder where you cloned the repository.
+1. Clone or download this repository to your local machine.
 
-#### For Firefox
+   ```bash
+   git clone https://github.com/abhishek-shivale/Distraction-Free_YouTube.git
+   ```
 
-1. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`.
-2. Click on "Load Temporary Add-on".
-3. Select the `manifest.json` file from the cloned folder.
+2. Open Chrome and navigate to `chrome://extensions/`.
+
+3. Enable "Developer mode" in the top right corner.
+
+4. Click on "Load unpacked" and select the folder where you cloned the repository.
+
+### For Firefox
+
+1. Clone or download this repository to your local machine.
+
+2. Open Firefox and navigate to `about:debugging#/runtime/this-firefox`.
+
+3. Click on "Load Temporary Add-on" and select the `manifest.json` file from the cloned folder.
 
 ## Usage
 
